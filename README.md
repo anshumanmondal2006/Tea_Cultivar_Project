@@ -110,5 +110,5 @@ The project involves a pipeline development for **image preprocessing**, **data 
 
 ## 🏁 Conclusion
 
-This project effectively demonstrates the power of **computer vision** — from raw data to preprocessing, model design, training, and evaluation. 
+This project effectively demonstrates the power of **computer vision** — from raw data to preprocessing, model design, training, and evaluation.<br> 
 Note: The current CNN-based classification is a basic prototype and lays the groundwork for future enhancements. The model training component is still under development by others. The primary focus of this project was to develop a robust preprocessing framework that preserves image quality and consistency before model deployment, before building real-world applications for practical use or other academic purposes.
