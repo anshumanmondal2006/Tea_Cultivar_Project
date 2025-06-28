@@ -37,15 +37,15 @@ The project involves a pipeline development for **image preprocessing**, **data 
 ## 🧪 Preprocessing Pipeline (The Crux)
 
 ### 🔹 Original Sample Image of Tea Leaf
-<img src="assets/original_leaf.jpg" alt="Original Leaf" width="200" height="400"/>
+<img src="assets/original_leaf.jpeg" alt="Original Leaf" width="200" height="400"/>
 
 ### 1. A4 Sheet Cropping
-<img src="assets/after_a4_crop.jpg" alt="After A4 Crop" width="200" height="400"/>
+<img src="assets/after_a4_crop.jpeg" alt="After A4 Crop" width="200" height="400"/>
 - Removes unnecessary portions beyond the boundaries of the A4 sheet.
 - Applies **perspective transform** to align leaves centrally on an A4 sheet.
 
 ### 2. Shadow-Free Leaf Extraction
-<img src="assets/final_shadow_free_leaf.jpg" alt="Final Leaf" width="200" height="400"/>
+<img src="assets/final_shadow_free_leaf.jpeg" alt="Final Leaf" width="200" height="400"/>
 - Converts image to **HSV**, applies color masking for green spectrum.
 - Performs **morphological filtering** and **convex hull** to cleanly extract the leaf.
 - Ensures a clean background for consistent model learning.
