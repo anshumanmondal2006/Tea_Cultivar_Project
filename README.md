@@ -44,7 +44,7 @@ The project involves a pipeline development for **image preprocessing**, **data 
       Raw sample image before any processing.
     </td>
     <td align="center">
-      <img src="assets/after_a4_crop.jpeg" alt="A4 Cropped" width="200"/><br/>
+      <img src="assets/after_A4_crop.jpeg" alt="A4 Cropped" width="200"/><br/>
       <strong>A4 Sheet Cropping</strong><br/>
       Crops out background and aligns leaf using perspective transform.
     </td>
