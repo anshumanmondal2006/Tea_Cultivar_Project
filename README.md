@@ -1,4 +1,4 @@
-# 🍃 Tea Leaf Cultivar Pre-Processing & Classification using CNN
+# 🍃 Tea Leaf Cultivar Pre-Processing & Classification
 
 **Research Intern under Prof. Prabir Barooah**  
 Department of Electrical and Electronics Engineering, IIT Guwahati (IITG)
